@@ -1,43 +1,47 @@
-# Movie Theater Scraper
+# AlloCiné RSS Feed
 
-Tracks movies in French theaters. Scrapes AlloCiné, generates RSS feed with change detection.
+Automated scraper that tracks classic movie showtimes in French theaters. Scrapes AlloCiné daily and generates an RSS feed with change detection.
 
-## Setup
+## RSS Feed
 
-```powershell
-pip install -r requirements.txt
-```
+**Public URL**: https://nell-otsuka.github.io/AlloCine-RSS-Feed/movie_feed.xml
+
+Updates daily at 8 PM Paris time via GitHub Actions.
+
+## Features
+
+- Scrapes movie showtimes from AlloCiné
+- Detects new screenings (🔔 emoji in feed)
+- Fetches movie metadata (year, poster)
+- RSS 2.0 feed with CDATA HTML content
+- Automated daily updates via GitHub Actions
+
+## Configuration
 
 Add movies to `config.yaml`:
 ```yaml
 movies:
   - name: "Blade Runner"
-    year: 1982
-    allocine_id: 1975  # From allocine.fr URL
+    allocine_id: 1975  # From allocine.fr film URL
 ```
 
-## Usage
+Year and poster are automatically scraped from AlloCiné.
 
-**Scrape all cities**:
+## Local Testing
+
 ```powershell
-python scraper.py
+pip install -r requirements.txt
+python scraper.py        # Manual scrape
+python rss_generator.py  # Generate RSS
+python main.py           # Scheduled (daily at 8 PM)
 ```
 
-**Scrape with proximity filter** (city name + radius in km):
-```powershell
-python scraper.py --near rouen 120
-```
+## GitHub Actions
 
-**Generate RSS feed** (from results.json):
-```powershell
-python rss_generator.py
-```
+Workflow runs daily at 8 PM Paris time, commits updated `results.json` and `movie_feed.xml` to the repo.
 
-**Automated** (daily at 9 AM + every 6 hours):
-```powershell
-python main.py
-```
-
-RSS feed: `movie_feed.xml`
+**Required settings**:
+- GitHub Pages enabled (source: main/master branch, root folder)
+- Actions permissions: Read and write
 
 For personal use only.
