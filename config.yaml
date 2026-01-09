@@ -19,7 +19,7 @@ movies:
 rss:
   title: "Movies in Theaters"
   description: "Track when movies are showing in French theaters"
-  link: "https://mieru-yo.github.io/AlloCine-RSS-Feed/movie_feed.xml"
+  link: "https://nell-otsuka.github.io/AlloCine-RSS-Feed/movie_feed.xml"
   output_file: "movie_feed.xml"
   
 # Scraping settings
