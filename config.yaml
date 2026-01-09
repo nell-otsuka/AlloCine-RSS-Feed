@@ -1,0 +1,35 @@
+# Movies to track
+movies:
+  - name: "Metropolis"
+    allocine_id: 240
+    
+  - name: "Blade Runner"
+    allocine_id: 1975
+    
+  - name: "2001: A Space Odyssey"
+    allocine_id: 27442
+    
+  - name: "Dune"
+    allocine_id: 133392
+    
+  - name: "Dune: Part Two"
+    allocine_id: 278742
+
+# RSS Feed settings
+rss:
+  title: "Movies in Theaters"
+  description: "Track when movies are showing in French theaters"
+  link: "https://mieru-yo.github.io/AlloCine-RSS-Feed/movie_feed.xml"
+  output_file: "movie_feed.xml"
+  
+# Scraping settings
+scraping:
+  # Delay between AlloCiné requests (seconds)
+  allocine_delay: 1
+  # User agent
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+# Scheduling settings (only used by main.py for local testing)
+schedule:
+  # Time to run daily when using main.py locally (HH:MM format, 24-hour)
+  daily_time: "20:00" 

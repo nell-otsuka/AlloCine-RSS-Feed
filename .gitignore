@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+*.log
+results.json
+movie_feed.xml
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+venv/
+env/
+.env
