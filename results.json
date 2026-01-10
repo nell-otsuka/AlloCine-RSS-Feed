@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-01-10T00:01:30.370655",
+  "movies": {
+    "240": {
+      "metadata": {
+        "name": "Metropolis",
+        "year": 1927,
+        "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
+      },
+      "screenings": [
+        "Mayenne",
+        "Asnières-sur-Seine",
+        "Plélan-le-Grand"
+      ]
+    },
+    "1975": {
+      "metadata": {
+        "name": "Blade Runner",
+        "year": 1982,
+        "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
+      },
+      "screenings": [
+        "Dax",
+        "Créteil",
+        "Paris",
+        "Paris 5e arrondissement"
+      ]
+    },
+    "27442": {
+      "metadata": {
+        "name": "2001: A Space Odyssey",
+        "year": 1968,
+        "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
+      },
+      "screenings": [
+        "Thiviers",
+        "Paris 8e arrondissement",
+        "Saint-Cloud",
+        "Hérouville-Saint-Clair",
+        "Paris"
+      ]
+    },
+    "133392": {
+      "metadata": {
+        "name": "Dune",
+        "year": 2021,
+        "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
+      },
+      "screenings": []
+    },
+    "278742": {
+      "metadata": {
+        "name": "Dune: Part Two",
+        "year": 2024,
+        "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg"
+      },
+      "screenings": []
+    }
+  }
+}
