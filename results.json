@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T19:12:38.654378",
+  "timestamp": "2026-01-11T19:12:35.673799",
   "movies": {
     "240": {
       "metadata": {
@@ -9,8 +9,7 @@
       },
       "screenings": [
         "Mayenne",
-        "Asnières-sur-Seine",
-        "Plélan-le-Grand"
+        "Asnières-sur-Seine"
       ]
     },
     "1975": {
