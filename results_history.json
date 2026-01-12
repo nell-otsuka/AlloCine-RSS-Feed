@@ -7,6 +7,8 @@
     },
     "screenings": [
       "Mayenne",
+      "Paris",
+      "Paris 5e arrondissement",
       "Asnières-sur-Seine"
     ]
   },
@@ -30,11 +32,12 @@
       "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
     },
     "screenings": [
+      "Paris",
       "Thiviers",
       "Paris 8e arrondissement",
       "Saint-Cloud",
       "Hérouville-Saint-Clair",
-      "Paris"
+      "Paris 5e arrondissement"
     ]
   },
   "133392": {
