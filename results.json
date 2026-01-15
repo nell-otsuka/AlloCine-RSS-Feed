@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T19:16:33.857465",
+  "timestamp": "2026-01-15T19:21:12.144123",
   "movies": {
     "240": {
       "metadata": {
@@ -9,9 +9,9 @@
       },
       "screenings": [
         "Mayenne",
+        "Asnières-sur-Seine",
         "Paris",
-        "Paris 5e arrondissement",
-        "Asnières-sur-Seine"
+        "Paris 5e arrondissement"
       ]
     },
     "1975": {
@@ -22,6 +22,7 @@
       },
       "screenings": [
         "Dax",
+        "Villeurbanne",
         "Créteil",
         "Paris",
         "Paris 5e arrondissement"
