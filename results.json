@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T19:17:30.451355",
+  "timestamp": "2026-01-17T19:12:19.746349",
   "movies": {
     "240": {
       "metadata": {
@@ -7,7 +7,9 @@
         "year": 1927,
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
-      "screenings": []
+      "screenings": [
+        "Mayenne"
+      ]
     },
     "1975": {
       "metadata": {
