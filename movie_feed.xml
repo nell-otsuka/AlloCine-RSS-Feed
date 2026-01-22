@@ -7,30 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 21 Jan 2026 20:22:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 20:21:14 +0100</lastBuildDate>
+    <item>
+      <title>✨ Blade Runner (1982)</title>
+      <link>https://www.allocine.fr/seance/film-1975/</link>
+      <description><![CDATA[<strong>⌛ Current:</strong> Caen, Dax, Villeurbanne<br/><strong>🔔 New:</strong> Caen]]></description>
+      <guid isPermaLink="false">Blade Runner-1982</guid>
+      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jan 2026 20:21:14 +0100</pubDate>
+    </item>
+    <item>
+      <title>✨ Metropolis (1927)</title>
+      <link>https://www.allocine.fr/seance/film-240/</link>
+      <description><![CDATA[<strong>⌛ Current:</strong> Mayenne, Nantes<br/><strong>🔔 New:</strong> Nantes]]></description>
+      <guid isPermaLink="false">Metropolis-1927</guid>
+      <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jan 2026 20:21:14 +0100</pubDate>
+    </item>
     <item>
       <title>2001: A Space Odyssey (1968)</title>
       <link>https://www.allocine.fr/seance/film-27442/</link>
       <description><![CDATA[<strong>⌛ Current:</strong> Hérouville-Saint-Clair, Paris, Paris 5e arrondissement, Paris 8e arrondissement, Thiviers]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Jan 2026 20:22:43 +0100</pubDate>
-    </item>
-    <item>
-      <title>Blade Runner (1982)</title>
-      <link>https://www.allocine.fr/seance/film-1975/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Dax, Paris, Paris 5e arrondissement, Villeurbanne]]></description>
-      <guid isPermaLink="false">Blade Runner-1982</guid>
-      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Jan 2026 20:22:43 +0100</pubDate>
-    </item>
-    <item>
-      <title>Metropolis (1927)</title>
-      <link>https://www.allocine.fr/seance/film-240/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Mayenne]]></description>
-      <guid isPermaLink="false">Metropolis-1927</guid>
-      <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Jan 2026 20:22:43 +0100</pubDate>
+      <pubDate>Thu, 22 Jan 2026 20:21:14 +0100</pubDate>
     </item>
   </channel>
 </rss>
