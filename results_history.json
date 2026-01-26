@@ -18,7 +18,9 @@
     },
     "screenings": [
       "Dax",
-      "Villeurbanne"
+      "Villeurbanne",
+      "Paris",
+      "Paris 5e arrondissement"
     ]
   },
   "27442": {
@@ -28,10 +30,10 @@
       "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
     },
     "screenings": [
+      "Paris",
       "Thiviers",
       "Paris 8e arrondissement",
       "Hérouville-Saint-Clair",
-      "Paris",
       "Paris 5e arrondissement"
     ]
   },
