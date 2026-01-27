@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-26T19:20:15.150868",
+  "timestamp": "2026-01-27T19:22:58.007410",
   "movies": {
     "240": {
       "metadata": {
@@ -33,10 +33,10 @@
       },
       "screenings": [
         "Paris",
+        "Paris 5e arrondissement",
         "Thiviers",
         "Paris 8e arrondissement",
-        "Hérouville-Saint-Clair",
-        "Paris 5e arrondissement"
+        "Hérouville-Saint-Clair"
       ]
     },
     "133392": {
