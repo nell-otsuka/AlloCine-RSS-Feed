@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-01T19:21:04.809852",
+  "timestamp": "2026-02-03T19:42:18.164590",
   "movies": {
     "240": {
       "metadata": {
@@ -34,9 +34,9 @@
       },
       "screenings": [
         "Paris",
+        "Paris 5e arrondissement",
         "Thiviers",
-        "Paris 8e arrondissement",
-        "Paris 5e arrondissement"
+        "Paris 8e arrondissement"
       ]
     },
     "133392": {
