@@ -7,7 +7,8 @@
     },
     "screenings": [
       "Nantes",
-      "Mayenne"
+      "Mayenne",
+      "Metz"
     ]
   },
   "1975": {
@@ -32,9 +33,9 @@
     },
     "screenings": [
       "Paris",
-      "Paris 5e arrondissement",
       "Thiviers",
-      "Paris 8e arrondissement"
+      "Paris 8e arrondissement",
+      "Paris 5e arrondissement"
     ]
   },
   "133392": {
