@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-04T19:36:10.529808",
+  "timestamp": "2026-02-05T19:35:12.801867",
   "movies": {
     "240": {
       "metadata": {
@@ -22,9 +22,7 @@
       "screenings": [
         "Dax",
         "Villeurbanne",
-        "Toucy",
-        "Paris",
-        "Paris 5e arrondissement"
+        "Toucy"
       ]
     },
     "27442": {
