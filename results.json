@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T20:00:22.028436",
+  "timestamp": "2026-02-10T19:57:41.877769",
   "movies": {
     "240": {
       "metadata": {
@@ -22,7 +22,10 @@
       "screenings": [
         "Dax",
         "Villeurbanne",
-        "Toucy"
+        "Toucy",
+        "Saint-Quay-Portrieux",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
@@ -33,7 +36,6 @@
       },
       "screenings": [
         "Thiviers",
-        "Paris 8e arrondissement",
         "Paris",
         "Paris 5e arrondissement"
       ]

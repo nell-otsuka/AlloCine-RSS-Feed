@@ -20,7 +20,10 @@
     "screenings": [
       "Dax",
       "Villeurbanne",
-      "Toucy"
+      "Toucy",
+      "Saint-Quay-Portrieux",
+      "Paris",
+      "Paris 5e arrondissement"
     ]
   },
   "27442": {
@@ -31,7 +34,6 @@
     },
     "screenings": [
       "Thiviers",
-      "Paris 8e arrondissement",
       "Paris",
       "Paris 5e arrondissement"
     ]
