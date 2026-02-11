@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-10T19:57:41.877769",
+  "timestamp": "2026-02-11T19:54:01.902217",
   "movies": {
     "240": {
       "metadata": {
@@ -21,7 +21,6 @@
       },
       "screenings": [
         "Dax",
-        "Villeurbanne",
         "Toucy",
         "Saint-Quay-Portrieux",
         "Paris",
