@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-14T19:20:08.514635",
+  "timestamp": "2026-02-15T19:21:31.158430",
   "movies": {
     "240": {
       "metadata": {
@@ -36,9 +36,7 @@
       },
       "screenings": [
         "Thiviers",
-        "Nogent-sur-Marne",
-        "Paris",
-        "Paris 5e arrondissement"
+        "Nogent-sur-Marne"
       ]
     },
     "133392": {
