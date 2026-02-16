@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-15T19:21:31.158430",
+  "timestamp": "2026-02-16T19:29:23.650208",
   "movies": {
     "240": {
       "metadata": {
@@ -9,8 +9,7 @@
       },
       "screenings": [
         "Nantes",
-        "Mayenne",
-        "Metz"
+        "Mayenne"
       ]
     },
     "1975": {
@@ -23,9 +22,7 @@
         "Dax",
         "Toucy",
         "Montgeron",
-        "Saint-Quay-Portrieux",
-        "Paris",
-        "Paris 5e arrondissement"
+        "Saint-Quay-Portrieux"
       ]
     },
     "27442": {
