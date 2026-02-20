@@ -7,22 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 19 Feb 2026 20:36:09 +0100</lastBuildDate>
-    <item>
-      <title>✨ Blade Runner (1982)</title>
-      <link>https://www.allocine.fr/seance/film-1975/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Dax, Montgeron, Mugron, Paris, Paris 5e arrondissement, Saint-Quay-Portrieux, Toucy<br/><strong>🔔 New:</strong> Mugron]]></description>
-      <guid isPermaLink="false">Blade Runner-1982</guid>
-      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Feb 2026 20:36:09 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 20:34:12 +0100</lastBuildDate>
     <item>
       <title>2001: A Space Odyssey (1968)</title>
       <link>https://www.allocine.fr/seance/film-27442/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Nogent-sur-Marne, Paris, Paris 5e arrondissement, Thiviers]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Nogent-sur-Marne, Thiviers]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Feb 2026 20:36:09 +0100</pubDate>
+      <pubDate>Fri, 20 Feb 2026 20:34:12 +0100</pubDate>
+    </item>
+    <item>
+      <title>Blade Runner (1982)</title>
+      <link>https://www.allocine.fr/seance/film-1975/</link>
+      <description><![CDATA[<strong>⌛ Current:</strong> Dax, Montgeron, Mugron, Paris, Paris 5e arrondissement, Saint-Quay-Portrieux, Toucy]]></description>
+      <guid isPermaLink="false">Blade Runner-1982</guid>
+      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Feb 2026 20:34:12 +0100</pubDate>
     </item>
     <item>
       <title>Metropolis (1927)</title>
@@ -30,7 +30,7 @@
       <description><![CDATA[<strong>⌛ Current:</strong> Mayenne, Nantes]]></description>
       <guid isPermaLink="false">Metropolis-1927</guid>
       <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Feb 2026 20:36:09 +0100</pubDate>
+      <pubDate>Fri, 20 Feb 2026 20:34:12 +0100</pubDate>
     </item>
   </channel>
 </rss>
