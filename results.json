@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T19:34:12.130254",
+  "timestamp": "2026-02-21T19:20:38.634022",
   "movies": {
     "240": {
       "metadata": {
@@ -8,8 +8,8 @@
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
       "screenings": [
-        "Nantes",
-        "Mayenne"
+        "Mayenne",
+        "Nantes"
       ]
     },
     "1975": {
@@ -23,9 +23,7 @@
         "Mugron",
         "Toucy",
         "Montgeron",
-        "Saint-Quay-Portrieux",
-        "Paris",
-        "Paris 5e arrondissement"
+        "Saint-Quay-Portrieux"
       ]
     },
     "27442": {
