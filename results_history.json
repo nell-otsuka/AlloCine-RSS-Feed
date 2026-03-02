@@ -21,13 +21,13 @@
     "screenings": [
       "Dax",
       "Mugron",
-      "Toucy",
       "Montgeron",
       "Gennevilliers",
       "Saint-Quay-Portrieux",
       "Bègles",
       "Paris",
-      "Paris 5e arrondissement"
+      "Paris 5e arrondissement",
+      "Toucy"
     ]
   },
   "27442": {
@@ -38,7 +38,9 @@
     },
     "screenings": [
       "Thiviers",
-      "Nogent-sur-Marne"
+      "Nogent-sur-Marne",
+      "Paris",
+      "Paris 5e arrondissement"
     ]
   },
   "133392": {

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T19:19:06.316899",
+  "timestamp": "2026-03-02T19:33:21.012462",
   "movies": {
     "240": {
       "metadata": {
@@ -23,13 +23,13 @@
       "screenings": [
         "Dax",
         "Mugron",
-        "Toucy",
         "Montgeron",
         "Gennevilliers",
         "Saint-Quay-Portrieux",
         "Bègles",
         "Paris",
-        "Paris 5e arrondissement"
+        "Paris 5e arrondissement",
+        "Toucy"
       ]
     },
     "27442": {
@@ -40,7 +40,9 @@
       },
       "screenings": [
         "Thiviers",
-        "Nogent-sur-Marne"
+        "Nogent-sur-Marne",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "133392": {
