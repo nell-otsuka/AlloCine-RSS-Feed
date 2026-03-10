@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T19:37:26.094613",
+  "timestamp": "2026-03-10T19:34:50.715447",
   "movies": {
     "240": {
       "metadata": {
@@ -8,7 +8,9 @@
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
       "screenings": [
-        "Guémené-sur-Scorff"
+        "Guémené-sur-Scorff",
+        "Paris",
+        "Paris 12e arrondissement"
       ]
     },
     "1975": {
