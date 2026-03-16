@@ -7,22 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 15 Mar 2026 20:24:21 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 20:51:13 +0100</lastBuildDate>
     <item>
-      <title>2001: A Space Odyssey (1968)</title>
+      <title>✨ 2001: A Space Odyssey (1968)</title>
       <link>https://www.allocine.fr/seance/film-27442/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Paris, Paris 5e arrondissement, Thiviers, Vélizy-Villacoublay]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Brest, Paris, Paris 5e arrondissement, Thiviers, Vélizy-Villacoublay<br/><strong>🔔 New:</strong> Brest]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 20:24:21 +0100</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:51:13 +0100</pubDate>
     </item>
     <item>
       <title>Blade Runner (1982)</title>
       <link>https://www.allocine.fr/seance/film-1975/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Bègles, Gennevilliers, Montgeron, Mugron, Paris, Paris 5e arrondissement, Saint-Quay-Portrieux]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Bègles, Montgeron, Mugron, Paris, Paris 5e arrondissement, Saint-Quay-Portrieux]]></description>
       <guid isPermaLink="false">Blade Runner-1982</guid>
       <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 20:24:21 +0100</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:51:13 +0100</pubDate>
     </item>
     <item>
       <title>Dune (2021)</title>
@@ -30,15 +30,15 @@
       <description><![CDATA[<strong>⌛ Current:</strong> Rillieux-la-Pape]]></description>
       <guid isPermaLink="false">Dune-2021</guid>
       <enclosure url="https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 20:24:21 +0100</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:51:13 +0100</pubDate>
     </item>
     <item>
       <title>Metropolis (1927)</title>
       <link>https://www.allocine.fr/seance/film-240/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Guémené-sur-Scorff, Paris, Paris 12e arrondissement]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Paris, Paris 12e arrondissement]]></description>
       <guid isPermaLink="false">Metropolis-1927</guid>
       <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 20:24:21 +0100</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:51:13 +0100</pubDate>
     </item>
   </channel>
 </rss>

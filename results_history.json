@@ -7,8 +7,7 @@
     },
     "screenings": [
       "Paris",
-      "Paris 12e arrondissement",
-      "Guémené-sur-Scorff"
+      "Paris 12e arrondissement"
     ]
   },
   "1975": {
@@ -18,10 +17,9 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
     },
     "screenings": [
-      "Mugron",
       "Montgeron",
-      "Gennevilliers",
       "Saint-Quay-Portrieux",
+      "Mugron",
       "Bègles",
       "Paris",
       "Paris 5e arrondissement"
@@ -35,9 +33,10 @@
     },
     "screenings": [
       "Thiviers",
+      "Brest",
+      "Vélizy-Villacoublay",
       "Paris",
-      "Paris 5e arrondissement",
-      "Vélizy-Villacoublay"
+      "Paris 5e arrondissement"
     ]
   },
   "133392": {
