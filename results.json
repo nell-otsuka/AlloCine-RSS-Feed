@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T19:51:13.445198",
+  "timestamp": "2026-03-17T19:52:44.428414",
   "movies": {
     "240": {
       "metadata": {
@@ -20,11 +20,11 @@
       },
       "screenings": [
         "Montgeron",
+        "Gennevilliers",
         "Saint-Quay-Portrieux",
-        "Mugron",
-        "Bègles",
         "Paris",
-        "Paris 5e arrondissement"
+        "Paris 5e arrondissement",
+        "Mugron"
       ]
     },
     "27442": {
@@ -36,9 +36,9 @@
       "screenings": [
         "Thiviers",
         "Brest",
-        "Vélizy-Villacoublay",
         "Paris",
-        "Paris 5e arrondissement"
+        "Paris 5e arrondissement",
+        "Vélizy-Villacoublay"
       ]
     },
     "133392": {

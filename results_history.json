@@ -18,11 +18,11 @@
     },
     "screenings": [
       "Montgeron",
+      "Gennevilliers",
       "Saint-Quay-Portrieux",
-      "Mugron",
-      "Bègles",
       "Paris",
-      "Paris 5e arrondissement"
+      "Paris 5e arrondissement",
+      "Mugron"
     ]
   },
   "27442": {
@@ -34,9 +34,9 @@
     "screenings": [
       "Thiviers",
       "Brest",
-      "Vélizy-Villacoublay",
       "Paris",
-      "Paris 5e arrondissement"
+      "Paris 5e arrondissement",
+      "Vélizy-Villacoublay"
     ]
   },
   "133392": {
