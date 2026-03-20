@@ -2,13 +2,10 @@
   "240": {
     "metadata": {
       "name": "Metropolis",
-      "year": 1927,
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
+      "year": null,
+      "poster": null
     },
-    "screenings": [
-      "Paris",
-      "Paris 12e arrondissement"
-    ]
+    "screenings": []
   },
   "1975": {
     "metadata": {
@@ -31,9 +28,10 @@
       "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
     },
     "screenings": [
+      "Paris",
       "Thiviers",
       "Brest",
-      "Paris",
+      "Paris 10e arrondissement",
       "Paris 5e arrondissement",
       "Vélizy-Villacoublay"
     ]
@@ -41,8 +39,8 @@
   "133392": {
     "metadata": {
       "name": "Dune",
-      "year": 2021,
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
+      "year": null,
+      "poster": null
     },
     "screenings": [
       "Rillieux-la-Pape"
