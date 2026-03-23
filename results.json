@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T19:21:21.705508",
+  "timestamp": "2026-03-23T19:44:11.410357",
   "movies": {
     "240": {
       "metadata": {
@@ -18,7 +18,9 @@
       "screenings": [
         "Montgeron",
         "Gennevilliers",
-        "Saint-Quay-Portrieux"
+        "Saint-Quay-Portrieux",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
@@ -28,12 +30,12 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
+        "Paris",
         "Thiviers",
         "Brest",
         "Paris 10e arrondissement",
-        "Paris",
-        "Vélizy-Villacoublay",
-        "Paris 5e arrondissement"
+        "Paris 5e arrondissement",
+        "Vélizy-Villacoublay"
       ]
     },
     "133392": {
