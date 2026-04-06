@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T19:30:12.193543",
+  "timestamp": "2026-04-06T19:49:30.617804",
   "movies": {
     "240": {
       "metadata": {
@@ -9,6 +9,7 @@
       },
       "screenings": [
         "Paris 13e arrondissement",
+        "Arras",
         "Paris"
       ]
     },
@@ -20,6 +21,7 @@
       },
       "screenings": [
         "Lans-en-Vercors",
+        "Pontonx-sur-l'Adour",
         "Saint-Quay-Portrieux",
         "Morlaix",
         "Clermont-l'Hérault",
