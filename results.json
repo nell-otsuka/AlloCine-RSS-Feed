@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T19:39:48.969227",
+  "timestamp": "2026-04-11T19:31:29.198857",
   "movies": {
     "240": {
       "metadata": {
@@ -35,11 +35,11 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
-        "Paris",
         "Thiviers",
         "Brest",
-        "Paris 10e arrondissement",
-        "Paris 5e arrondissement"
+        "Paris",
+        "Paris 5e arrondissement",
+        "Paris 10e arrondissement"
       ]
     },
     "133392": {
