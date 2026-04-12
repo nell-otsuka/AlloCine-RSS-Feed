@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T19:31:29.198857",
+  "timestamp": "2026-04-12T19:35:43.613458",
   "movies": {
     "240": {
       "metadata": {
@@ -37,9 +37,9 @@
       "screenings": [
         "Thiviers",
         "Brest",
+        "Paris 10e arrondissement",
         "Paris",
-        "Paris 5e arrondissement",
-        "Paris 10e arrondissement"
+        "Paris 5e arrondissement"
       ]
     },
     "133392": {
