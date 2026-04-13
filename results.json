@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T19:35:43.613458",
+  "timestamp": "2026-04-13T20:02:06.981610",
   "movies": {
     "240": {
       "metadata": {
@@ -8,9 +8,7 @@
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
       "screenings": [
-        "Paris 13e arrondissement",
-        "Arras",
-        "Paris"
+        "Arras"
       ]
     },
     "1975": {
@@ -23,9 +21,7 @@
         "Lans-en-Vercors",
         "Pontonx-sur-l'Adour",
         "Saint-Quay-Portrieux",
-        "Clermont-l'Hérault",
-        "Paris",
-        "Paris 5e arrondissement"
+        "Clermont-l'Hérault"
       ]
     },
     "27442": {
@@ -37,7 +33,6 @@
       "screenings": [
         "Thiviers",
         "Brest",
-        "Paris 10e arrondissement",
         "Paris",
         "Paris 5e arrondissement"
       ]
