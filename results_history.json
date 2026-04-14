@@ -16,10 +16,12 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
     },
     "screenings": [
-      "Lans-en-Vercors",
       "Pontonx-sur-l'Adour",
       "Saint-Quay-Portrieux",
-      "Clermont-l'Hérault"
+      "Clermont-l'Hérault",
+      "Paris",
+      "Paris 5e arrondissement",
+      "Lans-en-Vercors"
     ]
   },
   "27442": {
@@ -30,9 +32,7 @@
     },
     "screenings": [
       "Thiviers",
-      "Brest",
-      "Paris",
-      "Paris 5e arrondissement"
+      "Brest"
     ]
   },
   "133392": {
