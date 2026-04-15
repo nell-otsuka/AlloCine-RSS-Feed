@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T20:02:15.251692",
+  "timestamp": "2026-04-15T20:00:01.982282",
   "movies": {
     "240": {
       "metadata": {
@@ -22,8 +22,7 @@
         "Saint-Quay-Portrieux",
         "Clermont-l'Hérault",
         "Paris",
-        "Paris 5e arrondissement",
-        "Lans-en-Vercors"
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
@@ -34,7 +33,9 @@
       },
       "screenings": [
         "Thiviers",
-        "Brest"
+        "Brest",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "133392": {
