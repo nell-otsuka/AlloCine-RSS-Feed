@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 22:00:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 22:02:05 +0200</lastBuildDate>
     <item>
-      <title>✨ 2001: A Space Odyssey (1968)</title>
+      <title>2001: A Space Odyssey (1968)</title>
       <link>https://www.allocine.fr/seance/film-27442/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Brest, Paris, Paris 5e arrondissement, Poix-de-Picardie, Thiviers<br/><strong>🔔 New:</strong> Paris, Paris 5e arrondissement, Poix-de-Picardie]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Brest, Paris, Paris 5e arrondissement, Poix-de-Picardie, Thiviers]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 22:00:30 +0200</pubDate>
-    </item>
-    <item>
-      <title>✨ Metropolis (1927)</title>
-      <link>https://www.allocine.fr/seance/film-240/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Arras, Bègles<br/><strong>🔔 New:</strong> Bègles]]></description>
-      <guid isPermaLink="false">Metropolis-1927</guid>
-      <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 22:00:30 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2026 22:02:05 +0200</pubDate>
     </item>
     <item>
       <title>Blade Runner (1982)</title>
@@ -30,7 +22,15 @@
       <description><![CDATA[<strong>⌛ Current:</strong> Clermont-l'Hérault, Paris, Paris 5e arrondissement, Pontonx-sur-l'Adour, Saint-Quay-Portrieux]]></description>
       <guid isPermaLink="false">Blade Runner-1982</guid>
       <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 22:00:30 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2026 22:02:05 +0200</pubDate>
+    </item>
+    <item>
+      <title>Metropolis (1927)</title>
+      <link>https://www.allocine.fr/seance/film-240/</link>
+      <description><![CDATA[<strong>⌛ Current:</strong> Arras, Bègles]]></description>
+      <guid isPermaLink="false">Metropolis-1927</guid>
+      <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 22:02:05 +0200</pubDate>
     </item>
   </channel>
 </rss>
