@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T19:40:39.739332",
+  "timestamp": "2026-04-26T19:42:09.803944",
   "movies": {
     "240": {
       "metadata": {
@@ -33,13 +33,14 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
-        "Paris",
-        "Paris 5e arrondissement",
         "Thiviers",
         "Brest",
         "Poix-de-Picardie",
         "L' Isle-Jourdain",
-        "Lectoure"
+        "Lectoure",
+        "Paris",
+        "Paris 5e arrondissement",
+        "Coulommiers"
       ]
     },
     "133392": {
