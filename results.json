@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T20:07:51.171820",
+  "timestamp": "2026-04-30T20:06:55.243230",
   "movies": {
     "240": {
       "metadata": {
@@ -18,7 +18,9 @@
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
       },
       "screenings": [
-        "Saint-Quay-Portrieux"
+        "Saint-Quay-Portrieux",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
