@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T19:51:40.593562",
+  "timestamp": "2026-05-04T20:12:02.205752",
   "movies": {
     "240": {
       "metadata": {
@@ -7,9 +7,7 @@
         "year": 1927,
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
-      "screenings": [
-        "Bègles"
-      ]
+      "screenings": []
     },
     "1975": {
       "metadata": {
@@ -18,7 +16,9 @@
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
       },
       "screenings": [
-        "Saint-Quay-Portrieux"
+        "Saint-Quay-Portrieux",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
@@ -29,7 +29,9 @@
       },
       "screenings": [
         "Thiviers",
+        "Muret",
         "Poix-de-Picardie",
+        "Fleurance",
         "L' Isle-Jourdain",
         "Lectoure",
         "Paris",
