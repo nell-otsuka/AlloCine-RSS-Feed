@@ -29,8 +29,9 @@
     "screenings": [
       "Thiviers",
       "Muret",
-      "Coulommiers",
-      "Poix-de-Picardie"
+      "Paris",
+      "Paris 5e arrondissement",
+      "Coulommiers"
     ]
   },
   "133392": {
@@ -39,7 +40,9 @@
       "year": 2021,
       "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
     },
-    "screenings": []
+    "screenings": [
+      "Grenoble"
+    ]
   },
   "278742": {
     "metadata": {
