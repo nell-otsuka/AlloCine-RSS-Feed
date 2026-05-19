@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T20:21:53.750698",
+  "timestamp": "2026-05-19T20:26:57.328075",
   "movies": {
     "240": {
       "metadata": {
@@ -42,9 +42,7 @@
         "year": 2021,
         "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
       },
-      "screenings": [
-        "Grenoble"
-      ]
+      "screenings": []
     },
     "278742": {
       "metadata": {
