@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T20:57:45.755029",
+  "timestamp": "2026-05-21T20:48:22.731925",
   "movies": {
     "240": {
       "metadata": {
@@ -18,6 +18,7 @@
       "screenings": [
         "Soustons",
         "Saint-Quay-Portrieux",
+        "Barjac",
         "Paris",
         "Paris 5e arrondissement"
       ]
@@ -31,6 +32,8 @@
       "screenings": [
         "Thiviers",
         "Muret",
+        "Lyon",
+        "Lyon 8e arrondissement",
         "Paris",
         "Paris 5e arrondissement",
         "Coulommiers"
