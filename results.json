@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T20:48:22.731925",
+  "timestamp": "2026-05-22T20:40:34.921150",
   "movies": {
     "240": {
       "metadata": {
@@ -31,12 +31,12 @@
       },
       "screenings": [
         "Thiviers",
-        "Muret",
         "Lyon",
         "Lyon 8e arrondissement",
         "Paris",
         "Paris 5e arrondissement",
-        "Coulommiers"
+        "Coulommiers",
+        "Muret"
       ]
     },
     "133392": {
