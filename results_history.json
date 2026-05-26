@@ -5,7 +5,9 @@
       "year": 1927,
       "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
     },
-    "screenings": []
+    "screenings": [
+      "Angoulême"
+    ]
   },
   "1975": {
     "metadata": {
@@ -17,8 +19,7 @@
       "Saint-Quay-Portrieux",
       "Barjac",
       "Paris",
-      "Paris 5e arrondissement",
-      "Soustons"
+      "Paris 5e arrondissement"
     ]
   },
   "27442": {
@@ -31,9 +32,9 @@
       "Thiviers",
       "Lyon",
       "Lyon 8e arrondissement",
+      "Coulommiers",
       "Paris",
-      "Paris 5e arrondissement",
-      "Coulommiers"
+      "Paris 5e arrondissement"
     ]
   },
   "133392": {
