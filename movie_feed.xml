@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 26 May 2026 22:51:29 +0200</lastBuildDate>
-    <item>
-      <title>✨ Metropolis (1927)</title>
-      <link>https://www.allocine.fr/seance/film-240/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Angoulême<br/><strong>🔔 New:</strong> Angoulême]]></description>
-      <guid isPermaLink="false">Metropolis-1927</guid>
-      <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 22:51:29 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 22:58:05 +0200</lastBuildDate>
     <item>
       <title>2001: A Space Odyssey (1968)</title>
       <link>https://www.allocine.fr/seance/film-27442/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Coulommiers, Lyon, Lyon 8e arrondissement, Paris, Paris 5e arrondissement, Thiviers]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Coulommiers, Lyon, Lyon 8e arrondissement, Thiviers]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 22:51:29 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 22:58:05 +0200</pubDate>
     </item>
     <item>
       <title>Blade Runner (1982)</title>
@@ -30,7 +22,15 @@
       <description><![CDATA[<strong>⌛ Current:</strong> Barjac, Paris, Paris 5e arrondissement, Saint-Quay-Portrieux]]></description>
       <guid isPermaLink="false">Blade Runner-1982</guid>
       <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 22:51:29 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 22:58:05 +0200</pubDate>
+    </item>
+    <item>
+      <title>Metropolis (1927)</title>
+      <link>https://www.allocine.fr/seance/film-240/</link>
+      <description><![CDATA[<strong>⌛ Current:</strong> Angoulême]]></description>
+      <guid isPermaLink="false">Metropolis-1927</guid>
+      <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 22:58:05 +0200</pubDate>
     </item>
   </channel>
 </rss>
