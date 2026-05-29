@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T21:04:39.516140",
+  "timestamp": "2026-05-29T21:05:23.768379",
   "movies": {
     "240": {
       "metadata": {
@@ -19,9 +19,7 @@
       },
       "screenings": [
         "Saint-Quay-Portrieux",
-        "Barjac",
-        "Paris",
-        "Paris 5e arrondissement"
+        "Barjac"
       ]
     },
     "27442": {
