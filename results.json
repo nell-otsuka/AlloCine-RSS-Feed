@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-31T20:03:42.229712",
+  "timestamp": "2026-06-01T21:57:54.527997",
   "movies": {
     "240": {
       "metadata": {
@@ -19,7 +19,9 @@
       },
       "screenings": [
         "Saint-Quay-Portrieux",
-        "Barjac"
+        "Barjac",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
@@ -29,6 +31,8 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
+        "Paris",
+        "Paris 5e arrondissement",
         "Thiviers",
         "Lyon",
         "Lyon 8e arrondissement",
