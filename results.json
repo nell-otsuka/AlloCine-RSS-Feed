@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-02T21:44:33.239551",
+  "timestamp": "2026-06-03T21:45:10.681877",
   "movies": {
     "240": {
       "metadata": {
@@ -31,11 +31,11 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
-        "Paris",
-        "Paris 5e arrondissement",
         "Thiviers",
         "Lyon",
         "Lyon 8e arrondissement",
+        "Paris",
+        "Paris 5e arrondissement",
         "Coulommiers"
       ]
     },
