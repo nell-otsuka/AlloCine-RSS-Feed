@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T20:52:44.456870",
+  "timestamp": "2026-06-10T21:23:26.565063",
   "movies": {
     "240": {
       "metadata": {
@@ -35,7 +35,8 @@
       "screenings": [
         "Thiviers",
         "Lyon",
-        "Lyon 8e arrondissement"
+        "Lyon 8e arrondissement",
+        "Saint-Gilles-Croix-de-Vie"
       ]
     },
     "133392": {
