@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-14T20:14:45.643262",
+  "timestamp": "2026-06-15T21:40:20.180549",
   "movies": {
     "240": {
       "metadata": {
@@ -34,6 +34,7 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
+        "Decazeville",
         "Thiviers",
         "Lyon",
         "Lyon 8e arrondissement",
