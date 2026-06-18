@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-17T21:01:31.815683",
+  "timestamp": "2026-06-18T21:20:39.313822",
   "movies": {
     "240": {
       "metadata": {
@@ -8,6 +8,7 @@
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
       "screenings": [
+        "Canet-en-Roussillon",
         "Angoulême",
         "Paris",
         "Paris 5e arrondissement"
@@ -35,10 +36,12 @@
       },
       "screenings": [
         "Decazeville",
-        "Thiviers",
         "Lyon",
         "Lyon 8e arrondissement",
-        "Saint-Gilles-Croix-de-Vie"
+        "Saint-Gilles-Croix-de-Vie",
+        "Paris",
+        "Paris 2e arrondissement",
+        "Thiviers"
       ]
     },
     "133392": {
