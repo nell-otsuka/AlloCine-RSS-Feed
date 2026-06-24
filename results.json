@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-23T20:58:20.394585",
+  "timestamp": "2026-06-24T20:44:00.849716",
   "movies": {
     "240": {
       "metadata": {
@@ -8,10 +8,7 @@
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
       "screenings": [
-        "Canet-en-Roussillon",
-        "Angoulême",
-        "Paris",
-        "Paris 5e arrondissement"
+        "Canet-en-Roussillon"
       ]
     },
     "1975": {
