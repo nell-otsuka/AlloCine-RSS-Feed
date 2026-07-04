@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T20:11:41.289220",
+  "timestamp": "2026-07-04T20:06:27.330473",
   "movies": {
     "240": {
       "metadata": {
@@ -18,6 +18,7 @@
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
       },
       "screenings": [
+        "Évron",
         "La Rochelle",
         "Saint-Quay-Portrieux",
         "Mulhouse"
