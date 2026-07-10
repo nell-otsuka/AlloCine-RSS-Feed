@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T20:42:56.582968",
+  "timestamp": "2026-07-10T20:17:51.353282",
   "movies": {
     "240": {
       "metadata": {
@@ -19,7 +19,9 @@
         "Évron",
         "La Rochelle",
         "Saint-Quay-Portrieux",
-        "Mulhouse"
+        "Mulhouse",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
