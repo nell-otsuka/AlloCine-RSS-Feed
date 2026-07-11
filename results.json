@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T20:17:51.353282",
+  "timestamp": "2026-07-11T20:02:53.818648",
   "movies": {
     "240": {
       "metadata": {
@@ -16,7 +16,6 @@
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
       },
       "screenings": [
-        "Évron",
         "La Rochelle",
         "Saint-Quay-Portrieux",
         "Mulhouse",
@@ -33,6 +32,7 @@
       "screenings": [
         "Paris",
         "Decazeville",
+        "Saint-Pierre-d'Oléron",
         "Lyon",
         "Lyon 8e arrondissement",
         "Grenoble",
