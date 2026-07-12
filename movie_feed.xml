@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 11 Jul 2026 22:02:53 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:03:57 +0200</lastBuildDate>
     <item>
-      <title>✨ 2001: A Space Odyssey (1968)</title>
+      <title>2001: A Space Odyssey (1968)</title>
       <link>https://www.allocine.fr/seance/film-27442/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Decazeville, Grenoble, Lyon, Lyon 8e arrondissement, Paris, Paris 2e arrondissement, Paris 5e arrondissement, Saint-Pierre-d'Oléron<br/><strong>🔔 New:</strong> Saint-Pierre-d'Oléron]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Decazeville, Grenoble, Lyon, Lyon 8e arrondissement, Paris, Paris 2e arrondissement, Paris 5e arrondissement, Saint-Pierre-d'Oléron]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 22:02:53 +0200</pubDate>
+      <pubDate>Sun, 12 Jul 2026 22:03:57 +0200</pubDate>
     </item>
     <item>
       <title>Blade Runner (1982)</title>
@@ -22,7 +22,7 @@
       <description><![CDATA[<strong>⌛ Current:</strong> La Rochelle, Mulhouse, Paris, Paris 5e arrondissement, Saint-Quay-Portrieux]]></description>
       <guid isPermaLink="false">Blade Runner-1982</guid>
       <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 22:02:53 +0200</pubDate>
+      <pubDate>Sun, 12 Jul 2026 22:03:57 +0200</pubDate>
     </item>
   </channel>
 </rss>
