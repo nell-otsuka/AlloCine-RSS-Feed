@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T20:08:49.297895",
+  "timestamp": "2026-07-14T20:06:22.416320",
   "movies": {
     "240": {
       "metadata": {
@@ -30,14 +30,14 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
-        "Paris",
         "Decazeville",
         "Saint-Pierre-d'Oléron",
         "Lyon",
         "Lyon 8e arrondissement",
         "Grenoble",
-        "Paris 2e arrondissement",
-        "Paris 5e arrondissement"
+        "Paris",
+        "Paris 5e arrondissement",
+        "Paris 2e arrondissement"
       ]
     },
     "133392": {
