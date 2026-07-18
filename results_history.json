@@ -16,9 +16,7 @@
     "screenings": [
       "La Rochelle",
       "Saint-Quay-Portrieux",
-      "Mulhouse",
-      "Paris",
-      "Paris 5e arrondissement"
+      "Mulhouse"
     ]
   },
   "27442": {
@@ -30,11 +28,11 @@
     "screenings": [
       "Decazeville",
       "Saint-Pierre-d'Oléron",
-      "Lyon",
-      "Lyon 8e arrondissement",
       "Grenoble",
       "Paris",
-      "Paris 5e arrondissement"
+      "Paris 5e arrondissement",
+      "Lyon",
+      "Lyon 8e arrondissement"
     ]
   },
   "133392": {
