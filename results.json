@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T20:04:51.815054",
+  "timestamp": "2026-07-20T20:16:58.535591",
   "movies": {
     "240": {
       "metadata": {
@@ -18,7 +18,9 @@
       "screenings": [
         "La Rochelle",
         "Saint-Quay-Portrieux",
-        "Mulhouse"
+        "Mulhouse",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
