@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T20:16:58.535591",
+  "timestamp": "2026-07-21T20:16:13.965339",
   "movies": {
     "240": {
       "metadata": {
@@ -18,6 +18,7 @@
       "screenings": [
         "La Rochelle",
         "Saint-Quay-Portrieux",
+        "Labège",
         "Mulhouse",
         "Paris",
         "Paris 5e arrondissement"
@@ -34,9 +35,7 @@
         "Saint-Pierre-d'Oléron",
         "Grenoble",
         "Paris",
-        "Paris 5e arrondissement",
-        "Lyon",
-        "Lyon 8e arrondissement"
+        "Paris 5e arrondissement"
       ]
     },
     "133392": {
