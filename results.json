@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T19:53:35.413552",
+  "timestamp": "2026-08-14T19:43:37.488081",
   "movies": {
     "240": {
       "metadata": {
@@ -8,8 +8,8 @@
         "poster": "https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg"
       },
       "screenings": [
-        "Toulouse",
         "Paris",
+        "Paris 10e arrondissement",
         "Paris 6e arrondissement"
       ]
     },
