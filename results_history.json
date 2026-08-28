@@ -20,7 +20,6 @@
     "screenings": [
       "Paris",
       "Nice",
-      "Mulhouse",
       "Paris 5e arrondissement",
       "Paris 6e arrondissement"
     ]
@@ -32,12 +31,12 @@
       "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
     },
     "screenings": [
-      "Paris",
       "Grenoble",
       "Gourdon",
-      "Paris 5e arrondissement",
+      "Paris",
       "Paris 12e arrondissement",
-      "Poix-de-Picardie"
+      "Poix-de-Picardie",
+      "Paris 5e arrondissement"
     ]
   },
   "133392": {
