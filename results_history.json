@@ -18,10 +18,11 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
     },
     "screenings": [
-      "Nice",
       "Paris",
-      "Paris 6e arrondissement",
-      "Paris 5e arrondissement"
+      "Nice",
+      "Mulhouse",
+      "Paris 5e arrondissement",
+      "Paris 6e arrondissement"
     ]
   },
   "27442": {
@@ -31,11 +32,14 @@
       "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
     },
     "screenings": [
+      "Paris",
+      "Montpellier",
       "Grenoble",
       "Gourdon",
-      "Paris",
+      "Paris 5e arrondissement",
       "Paris 12e arrondissement",
-      "Poix-de-Picardie"
+      "Poix-de-Picardie",
+      "Massy"
     ]
   },
   "133392": {
