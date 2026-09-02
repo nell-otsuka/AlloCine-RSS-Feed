@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T21:32:03.728433",
+  "timestamp": "2026-09-02T21:30:59.342144",
   "movies": {
     "240": {
       "metadata": {
@@ -10,7 +10,8 @@
       "screenings": [
         "Paris",
         "Paris 6e arrondissement",
-        "Paris 10e arrondissement"
+        "Paris 10e arrondissement",
+        "Fontenay-le-Comte"
       ]
     },
     "1975": {
@@ -24,7 +25,8 @@
         "Nice",
         "Mulhouse",
         "Paris 5e arrondissement",
-        "Paris 6e arrondissement"
+        "Paris 6e arrondissement",
+        "Fontenay-le-Comte"
       ]
     },
     "27442": {
