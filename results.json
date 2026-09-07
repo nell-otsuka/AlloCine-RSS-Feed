@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T21:00:30.684301",
+  "timestamp": "2026-09-07T21:52:09.552125",
   "movies": {
     "240": {
       "metadata": {
@@ -9,10 +9,10 @@
       },
       "screenings": [
         "Paris",
-        "Grenoble",
         "Paris 6e arrondissement",
         "Paris 10e arrondissement",
-        "Fontenay-le-Comte"
+        "Fontenay-le-Comte",
+        "Grenoble"
       ]
     },
     "1975": {
@@ -22,11 +22,12 @@
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
       },
       "screenings": [
-        "Nice",
-        "Mulhouse",
         "Paris",
+        "Paris 5e arrondissement",
+        "Mulhouse",
         "Paris 6e arrondissement",
-        "Fontenay-le-Comte"
+        "Fontenay-le-Comte",
+        "Nice"
       ]
     },
     "27442": {
@@ -36,14 +37,14 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
-        "Montpellier",
-        "Grenoble",
-        "Gourdon",
         "Paris",
+        "Gourdon",
+        "Paris 5e arrondissement",
         "Paris 12e arrondissement",
         "Poix-de-Picardie",
         "Massy",
-        "Paris 5e arrondissement"
+        "Montpellier",
+        "Grenoble"
       ]
     },
     "133392": {
