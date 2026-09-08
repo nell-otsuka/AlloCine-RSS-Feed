@@ -7,10 +7,10 @@
     },
     "screenings": [
       "Paris",
-      "Paris 6e arrondissement",
       "Paris 10e arrondissement",
       "Fontenay-le-Comte",
-      "Grenoble"
+      "Grenoble",
+      "Paris 6e arrondissement"
     ]
   },
   "1975": {
@@ -22,7 +22,6 @@
     "screenings": [
       "Paris",
       "Paris 5e arrondissement",
-      "Mulhouse",
       "Paris 6e arrondissement",
       "Fontenay-le-Comte",
       "Nice"
@@ -36,8 +35,8 @@
     },
     "screenings": [
       "Paris",
-      "Gourdon",
       "Paris 5e arrondissement",
+      "Gourdon",
       "Paris 12e arrondissement",
       "Poix-de-Picardie",
       "Massy",
