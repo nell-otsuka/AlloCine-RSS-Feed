@@ -9,7 +9,6 @@
       "Paris",
       "Paris 10e arrondissement",
       "Fontenay-le-Comte",
-      "Grenoble",
       "Paris 6e arrondissement"
     ]
   },
@@ -22,6 +21,7 @@
     "screenings": [
       "Paris",
       "Paris 5e arrondissement",
+      "Strasbourg",
       "Paris 6e arrondissement",
       "Fontenay-le-Comte",
       "Nice"
@@ -37,6 +37,7 @@
       "Paris",
       "Paris 5e arrondissement",
       "Gourdon",
+      "Strasbourg",
       "Paris 12e arrondissement",
       "Poix-de-Picardie",
       "Massy",

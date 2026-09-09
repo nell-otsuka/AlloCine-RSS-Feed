@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T21:31:53.027409",
+  "timestamp": "2026-09-09T21:28:28.666209",
   "movies": {
     "240": {
       "metadata": {
@@ -11,7 +11,6 @@
         "Paris",
         "Paris 10e arrondissement",
         "Fontenay-le-Comte",
-        "Grenoble",
         "Paris 6e arrondissement"
       ]
     },
@@ -24,6 +23,7 @@
       "screenings": [
         "Paris",
         "Paris 5e arrondissement",
+        "Strasbourg",
         "Paris 6e arrondissement",
         "Fontenay-le-Comte",
         "Nice"
@@ -39,6 +39,7 @@
         "Paris",
         "Paris 5e arrondissement",
         "Gourdon",
+        "Strasbourg",
         "Paris 12e arrondissement",
         "Poix-de-Picardie",
         "Massy",
