@@ -8,8 +8,7 @@
     "screenings": [
       "Paris",
       "Paris 10e arrondissement",
-      "Fontenay-le-Comte",
-      "Paris 6e arrondissement"
+      "Fontenay-le-Comte"
     ]
   },
   "1975": {
@@ -20,8 +19,8 @@
     },
     "screenings": [
       "Paris",
-      "Paris 5e arrondissement",
       "Strasbourg",
+      "Paris 5e arrondissement",
       "Paris 6e arrondissement",
       "Fontenay-le-Comte",
       "Nice"
@@ -35,9 +34,9 @@
     },
     "screenings": [
       "Paris",
-      "Paris 5e arrondissement",
       "Gourdon",
       "Strasbourg",
+      "Paris 5e arrondissement",
       "Paris 12e arrondissement",
       "Poix-de-Picardie",
       "Massy",
