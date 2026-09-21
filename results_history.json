@@ -19,8 +19,9 @@
     },
     "screenings": [
       "Paris",
-      "Strasbourg",
       "Paris 5e arrondissement",
+      "Maubeuge",
+      "Strasbourg",
       "Paris 6e arrondissement",
       "Fontenay-le-Comte",
       "Nice",
@@ -40,7 +41,6 @@
       "Strasbourg",
       "Paris 12e arrondissement",
       "Poix-de-Picardie",
-      "Mazamet",
       "Massy",
       "Grenoble"
     ]

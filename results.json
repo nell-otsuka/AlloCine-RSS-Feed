@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T21:08:39.140785",
+  "timestamp": "2026-09-21T22:23:39.356034",
   "movies": {
     "240": {
       "metadata": {
@@ -21,8 +21,9 @@
       },
       "screenings": [
         "Paris",
-        "Strasbourg",
         "Paris 5e arrondissement",
+        "Maubeuge",
+        "Strasbourg",
         "Paris 6e arrondissement",
         "Fontenay-le-Comte",
         "Nice",
@@ -42,7 +43,6 @@
         "Strasbourg",
         "Paris 12e arrondissement",
         "Poix-de-Picardie",
-        "Mazamet",
         "Massy",
         "Grenoble"
       ]
