@@ -24,8 +24,7 @@
       "Strasbourg",
       "Fontenay-le-Comte",
       "Nice",
-      "Saint-Amand-Montrond",
-      "Paris 6e arrondissement"
+      "Saint-Amand-Montrond"
     ]
   },
   "27442": {
@@ -36,13 +35,13 @@
     },
     "screenings": [
       "Paris",
-      "Gourdon",
       "Strasbourg",
       "Paris 5e arrondissement",
       "Paris 12e arrondissement",
       "Poix-de-Picardie",
       "Massy",
-      "Grenoble"
+      "Grenoble",
+      "Gourdon"
     ]
   },
   "133392": {

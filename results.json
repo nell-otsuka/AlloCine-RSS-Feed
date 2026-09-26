@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T21:56:04.273659",
+  "timestamp": "2026-09-26T21:44:51.588589",
   "movies": {
     "240": {
       "metadata": {
@@ -26,8 +26,7 @@
         "Strasbourg",
         "Fontenay-le-Comte",
         "Nice",
-        "Saint-Amand-Montrond",
-        "Paris 6e arrondissement"
+        "Saint-Amand-Montrond"
       ]
     },
     "27442": {
@@ -38,13 +37,13 @@
       },
       "screenings": [
         "Paris",
-        "Gourdon",
         "Strasbourg",
         "Paris 5e arrondissement",
         "Paris 12e arrondissement",
         "Poix-de-Picardie",
         "Massy",
-        "Grenoble"
+        "Grenoble",
+        "Gourdon"
       ]
     },
     "133392": {
