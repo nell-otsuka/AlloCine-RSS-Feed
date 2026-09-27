@@ -18,13 +18,13 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
     },
     "screenings": [
-      "Paris",
-      "Paris 5e arrondissement",
       "Maubeuge",
       "Strasbourg",
-      "Fontenay-le-Comte",
+      "Paris",
+      "Paris 5e arrondissement",
       "Nice",
-      "Saint-Amand-Montrond"
+      "Saint-Amand-Montrond",
+      "Fontenay-le-Comte"
     ]
   },
   "27442": {
@@ -38,10 +38,8 @@
       "Strasbourg",
       "Paris 5e arrondissement",
       "Paris 12e arrondissement",
-      "Poix-de-Picardie",
       "Massy",
-      "Grenoble",
-      "Gourdon"
+      "Grenoble"
     ]
   },
   "133392": {
