@@ -7,8 +7,7 @@
     },
     "screenings": [
       "Paris",
-      "Paris 10e arrondissement",
-      "Fontenay-le-Comte"
+      "Paris 10e arrondissement"
     ]
   },
   "1975": {
@@ -18,12 +17,12 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
     },
     "screenings": [
-      "Maubeuge",
       "Strasbourg",
       "Paris",
       "Paris 5e arrondissement",
       "Nice",
       "Saint-Amand-Montrond",
+      "Maubeuge",
       "Fontenay-le-Comte"
     ]
   },
@@ -35,8 +34,8 @@
     },
     "screenings": [
       "Paris",
-      "Strasbourg",
       "Paris 5e arrondissement",
+      "Strasbourg",
       "Paris 12e arrondissement",
       "Massy",
       "Grenoble"
