@@ -17,13 +17,12 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
     },
     "screenings": [
+      "Ibos",
       "Strasbourg",
       "Paris",
       "Paris 5e arrondissement",
       "Nice",
-      "Saint-Amand-Montrond",
-      "Maubeuge",
-      "Fontenay-le-Comte"
+      "Saint-Amand-Montrond"
     ]
   },
   "27442": {
@@ -34,9 +33,10 @@
     },
     "screenings": [
       "Paris",
-      "Paris 5e arrondissement",
       "Strasbourg",
+      "Paris 5e arrondissement",
       "Paris 12e arrondissement",
+      "Poitiers",
       "Massy",
       "Grenoble"
     ]
