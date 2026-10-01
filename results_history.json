@@ -19,6 +19,7 @@
     "screenings": [
       "Ibos",
       "Strasbourg",
+      "Munster",
       "Paris",
       "Paris 5e arrondissement",
       "Nice",
@@ -33,12 +34,11 @@
     },
     "screenings": [
       "Paris",
-      "Strasbourg",
-      "Paris 5e arrondissement",
       "Paris 12e arrondissement",
       "Poitiers",
       "Massy",
-      "Grenoble"
+      "Grenoble",
+      "Strasbourg"
     ]
   },
   "133392": {
@@ -47,7 +47,9 @@
       "year": 2021,
       "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
     },
-    "screenings": []
+    "screenings": [
+      "Nogaro"
+    ]
   },
   "278742": {
     "metadata": {
