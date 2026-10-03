@@ -18,12 +18,11 @@
     },
     "screenings": [
       "Ibos",
-      "Strasbourg",
       "Munster",
-      "Paris",
-      "Paris 5e arrondissement",
       "Nice",
-      "Saint-Amand-Montrond"
+      "Saint-Amand-Montrond",
+      "Paris",
+      "Paris 5e arrondissement"
     ]
   },
   "27442": {
@@ -37,8 +36,7 @@
       "Paris 12e arrondissement",
       "Poitiers",
       "Massy",
-      "Grenoble",
-      "Strasbourg"
+      "Grenoble"
     ]
   },
   "133392": {
