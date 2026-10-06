@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T00:32:21.114811",
+  "timestamp": "2026-10-06T22:51:32.689321",
   "movies": {
     "240": {
       "metadata": {
@@ -36,6 +36,7 @@
       },
       "screenings": [
         "Paris",
+        "Paris 5e arrondissement",
         "Paris 12e arrondissement",
         "Poitiers",
         "Massy"
