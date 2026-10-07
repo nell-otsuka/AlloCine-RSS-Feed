@@ -18,12 +18,11 @@
     },
     "screenings": [
       "Ibos",
-      "Munster",
-      "Paris",
-      "Paris 5e arrondissement",
       "Thouars",
       "Nice",
-      "Saint-Amand-Montrond"
+      "Saint-Amand-Montrond",
+      "Paris",
+      "Paris 5e arrondissement"
     ]
   },
   "27442": {
@@ -46,9 +45,7 @@
       "year": 2021,
       "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
     },
-    "screenings": [
-      "Nogaro"
-    ]
+    "screenings": []
   },
   "278742": {
     "metadata": {
