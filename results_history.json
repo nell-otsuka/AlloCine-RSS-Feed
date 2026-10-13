@@ -19,9 +19,10 @@
     },
     "screenings": [
       "Ibos",
+      "Paris",
+      "Paris 5e arrondissement",
       "Thouars",
-      "Nice",
-      "Saint-Amand-Montrond"
+      "Nice"
     ]
   },
   "27442": {
@@ -31,6 +32,8 @@
       "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
     },
     "screenings": [
+      "Paris",
+      "Paris 5e arrondissement",
       "Poitiers",
       "Massy"
     ]
@@ -41,9 +44,7 @@
       "year": 2021,
       "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
     },
-    "screenings": [
-      "Lourdes"
-    ]
+    "screenings": []
   },
   "278742": {
     "metadata": {
