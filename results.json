@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T23:10:14.857404",
+  "timestamp": "2026-10-14T22:00:14.805811",
   "movies": {
     "240": {
       "metadata": {
@@ -22,9 +22,7 @@
       "screenings": [
         "Ibos",
         "Paris",
-        "Paris 5e arrondissement",
-        "Nice",
-        "Thouars"
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
@@ -46,7 +44,10 @@
         "year": 2021,
         "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
       },
-      "screenings": []
+      "screenings": [
+        "Guérande",
+        "Granville"
+      ]
     },
     "278742": {
       "metadata": {
@@ -54,7 +55,11 @@
         "year": 2024,
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg"
       },
-      "screenings": []
+      "screenings": [
+        "Granville",
+        "Paris",
+        "Paris 8e arrondissement"
+      ]
     }
   }
 }
