@@ -20,7 +20,8 @@
     "screenings": [
       "Ibos",
       "Paris",
-      "Paris 5e arrondissement"
+      "Paris 5e arrondissement",
+      "Bobigny"
     ]
   },
   "27442": {
@@ -44,7 +45,8 @@
     },
     "screenings": [
       "Guérande",
-      "Granville"
+      "Granville",
+      "Saint-Aubin-sur-Mer"
     ]
   },
   "278742": {
@@ -54,9 +56,11 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg"
     },
     "screenings": [
+      "Guérande",
       "Granville",
       "Paris",
-      "Paris 8e arrondissement"
+      "Paris 8e arrondissement",
+      "Saint-Aubin-sur-Mer"
     ]
   }
 }
