@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T21:54:06.898983",
+  "timestamp": "2026-10-16T21:52:37.729387",
   "movies": {
     "240": {
       "metadata": {
@@ -48,7 +48,8 @@
       "screenings": [
         "Guérande",
         "Granville",
-        "Saint-Aubin-sur-Mer"
+        "Saint-Aubin-sur-Mer",
+        "Saint-Gaudens"
       ]
     },
     "278742": {
@@ -62,7 +63,8 @@
         "Granville",
         "Paris",
         "Paris 8e arrondissement",
-        "Saint-Aubin-sur-Mer"
+        "Saint-Aubin-sur-Mer",
+        "Saint-Gaudens"
       ]
     }
   }
