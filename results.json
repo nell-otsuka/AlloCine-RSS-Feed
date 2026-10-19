@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T21:13:03.740060",
+  "timestamp": "2026-10-19T22:45:22.764266",
   "movies": {
     "240": {
       "metadata": {
@@ -20,6 +20,7 @@
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
       },
       "screenings": [
+        "Creil",
         "Ibos",
         "Paris",
         "Paris 5e arrondissement",
@@ -45,8 +46,13 @@
         "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
       },
       "screenings": [
+        "Saint-Chamond",
         "Guérande",
         "Granville",
+        "Paris",
+        "Paris 17e arrondissement",
+        "Milly-la-Forêt",
+        "Le Blanc-Mesnil",
         "Saint-Aubin-sur-Mer",
         "Saint-Gaudens"
       ]
@@ -58,10 +64,14 @@
         "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg"
       },
       "screenings": [
+        "Paris",
+        "Saint-Chamond",
         "Guérande",
         "Granville",
-        "Paris",
         "Paris 8e arrondissement",
+        "Paris 17e arrondissement",
+        "Milly-la-Forêt",
+        "Le Blanc-Mesnil",
         "Saint-Aubin-sur-Mer",
         "Saint-Gaudens"
       ]
