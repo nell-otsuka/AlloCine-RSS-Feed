@@ -20,6 +20,7 @@
     "screenings": [
       "Creil",
       "Ibos",
+      "Chambéry",
       "Paris",
       "Paris 5e arrondissement",
       "Bobigny"
@@ -44,14 +45,18 @@
       "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg"
     },
     "screenings": [
+      "Paris",
       "Saint-Chamond",
       "Guérande",
+      "Gien",
       "Granville",
-      "Paris",
+      "Valenciennes",
+      "Paris 2e arrondissement",
       "Paris 17e arrondissement",
       "Milly-la-Forêt",
       "Le Blanc-Mesnil",
       "Saint-Aubin-sur-Mer",
+      "Saintes",
       "Saint-Gaudens"
     ]
   },
@@ -65,12 +70,16 @@
       "Paris",
       "Saint-Chamond",
       "Guérande",
+      "Gien",
       "Granville",
+      "Valenciennes",
+      "Paris 2e arrondissement",
       "Paris 8e arrondissement",
       "Paris 17e arrondissement",
       "Milly-la-Forêt",
       "Le Blanc-Mesnil",
       "Saint-Aubin-sur-Mer",
+      "Saintes",
       "Saint-Gaudens"
     ]
   }

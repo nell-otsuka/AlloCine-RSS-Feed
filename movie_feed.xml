@@ -7,30 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:45:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:01:03 +0200</lastBuildDate>
     <item>
       <title>✨ Blade Runner (1982)</title>
       <link>https://www.allocine.fr/seance/film-1975/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Bobigny, Creil, Ibos, Paris, Paris 5e arrondissement<br/><strong>🔔 New:</strong> Creil]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Bobigny, Chambéry, Creil, Ibos, Paris, Paris 5e arrondissement<br/><strong>🔔 New:</strong> Chambéry]]></description>
       <guid isPermaLink="false">Blade Runner-1982</guid>
       <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 20 Oct 2026 00:45:22 +0200</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:01:03 +0200</pubDate>
     </item>
     <item>
       <title>✨ Dune (2021)</title>
       <link>https://www.allocine.fr/seance/film-133392/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Granville, Guérande, Le Blanc-Mesnil, Milly-la-Forêt, Paris, Paris 17e arrondissement, Saint-Aubin-sur-Mer, Saint-Chamond, Saint-Gaudens<br/><strong>🔔 New:</strong> Le Blanc-Mesnil, Milly-la-Forêt, Paris, Paris 17e arrondissement, Saint-Chamond]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Gien, Granville, Guérande, Le Blanc-Mesnil, Milly-la-Forêt, Paris, Paris 17e arrondissement, Paris 2e arrondissement, Saint-Aubin-sur-Mer, Saint-Chamond, Saint-Gaudens, Saintes, Valenciennes<br/><strong>🔔 New:</strong> Gien, Paris 2e arrondissement, Saintes, Valenciennes]]></description>
       <guid isPermaLink="false">Dune-2021</guid>
       <enclosure url="https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 20 Oct 2026 00:45:22 +0200</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:01:03 +0200</pubDate>
     </item>
     <item>
       <title>✨ Dune: Part Two (2024)</title>
       <link>https://www.allocine.fr/seance/film-278742/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Granville, Guérande, Le Blanc-Mesnil, Milly-la-Forêt, Paris, Paris 17e arrondissement, Paris 8e arrondissement, Saint-Aubin-sur-Mer, Saint-Chamond, Saint-Gaudens<br/><strong>🔔 New:</strong> Le Blanc-Mesnil, Milly-la-Forêt, Paris 17e arrondissement, Saint-Chamond]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Gien, Granville, Guérande, Le Blanc-Mesnil, Milly-la-Forêt, Paris, Paris 17e arrondissement, Paris 2e arrondissement, Paris 8e arrondissement, Saint-Aubin-sur-Mer, Saint-Chamond, Saint-Gaudens, Saintes, Valenciennes<br/><strong>🔔 New:</strong> Gien, Paris 2e arrondissement, Saintes, Valenciennes]]></description>
       <guid isPermaLink="false">Dune: Part Two-2024</guid>
       <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 20 Oct 2026 00:45:22 +0200</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:01:03 +0200</pubDate>
     </item>
     <item>
       <title>2001: A Space Odyssey (1968)</title>
@@ -38,7 +38,7 @@
       <description><![CDATA[<strong>⌛ Current:</strong> Massy, Paris, Paris 5e arrondissement]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 20 Oct 2026 00:45:22 +0200</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:01:03 +0200</pubDate>
     </item>
     <item>
       <title>Metropolis (1927)</title>
@@ -46,7 +46,7 @@
       <description><![CDATA[<strong>⌛ Current:</strong> La Mure, Paris, Paris 10e arrondissement]]></description>
       <guid isPermaLink="false">Metropolis-1927</guid>
       <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 20 Oct 2026 00:45:22 +0200</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:01:03 +0200</pubDate>
     </item>
   </channel>
 </rss>
