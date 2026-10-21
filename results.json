@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T22:01:03.283550",
+  "timestamp": "2026-10-21T22:03:05.935662",
   "movies": {
     "240": {
       "metadata": {
@@ -48,7 +48,7 @@
       },
       "screenings": [
         "Paris",
-        "Saint-Chamond",
+        "Vendôme",
         "Guérande",
         "Gien",
         "Granville",
@@ -70,7 +70,7 @@
       },
       "screenings": [
         "Paris",
-        "Saint-Chamond",
+        "Vendôme",
         "Guérande",
         "Gien",
         "Granville",
