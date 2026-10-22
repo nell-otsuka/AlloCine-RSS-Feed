@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T22:03:05.935662",
+  "timestamp": "2026-10-22T22:02:20.295959",
   "movies": {
     "240": {
       "metadata": {
@@ -74,14 +74,19 @@
         "Guérande",
         "Gien",
         "Granville",
+        "Hauteville-sur-Mer",
         "Valenciennes",
+        "Annecy",
         "Paris 2e arrondissement",
         "Paris 8e arrondissement",
         "Paris 17e arrondissement",
+        "Montmorillon",
         "Milly-la-Forêt",
         "Le Blanc-Mesnil",
+        "Nice",
         "Saint-Aubin-sur-Mer",
         "Saintes",
+        "Thiviers",
         "Saint-Gaudens"
       ]
     }
