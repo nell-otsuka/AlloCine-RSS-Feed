@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T22:02:20.295959",
+  "timestamp": "2026-10-23T21:47:36.335896",
   "movies": {
     "240": {
       "metadata": {
@@ -52,14 +52,22 @@
         "Guérande",
         "Gien",
         "Granville",
+        "Hauteville-sur-Mer",
         "Valenciennes",
+        "Chambly",
+        "Boulogne-sur-Mer",
+        "Lourdes",
+        "Chalon-sur-Saône",
         "Paris 2e arrondissement",
+        "Paris 8e arrondissement",
         "Paris 17e arrondissement",
+        "Montmorillon",
         "Milly-la-Forêt",
+        "Les Ulis",
+        "Villeneuve-la-Garenne",
         "Le Blanc-Mesnil",
-        "Saint-Aubin-sur-Mer",
-        "Saintes",
-        "Saint-Gaudens"
+        "Chennevières-sur-Marne",
+        "Montigny-lès-Cormeilles"
       ]
     },
     "278742": {
@@ -76,18 +84,20 @@
         "Granville",
         "Hauteville-sur-Mer",
         "Valenciennes",
-        "Annecy",
+        "Chambly",
+        "Boulogne-sur-Mer",
         "Paris 2e arrondissement",
         "Paris 8e arrondissement",
         "Paris 17e arrondissement",
         "Montmorillon",
         "Milly-la-Forêt",
         "Le Blanc-Mesnil",
-        "Nice",
+        "Chennevières-sur-Marne",
+        "Pamiers",
         "Saint-Aubin-sur-Mer",
         "Saintes",
         "Thiviers",
-        "Saint-Gaudens"
+        "Crest"
       ]
     }
   }
