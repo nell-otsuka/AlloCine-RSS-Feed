@@ -47,6 +47,8 @@
     "screenings": [
       "Paris",
       "Vendôme",
+      "Pélussin",
+      "Saint-Étienne",
       "Guérande",
       "Gien",
       "Granville",
@@ -54,18 +56,16 @@
       "Valenciennes",
       "Chambly",
       "Boulogne-sur-Mer",
+      "Salies-de-Béarn",
       "Lourdes",
       "Chalon-sur-Saône",
       "Paris 2e arrondissement",
       "Paris 8e arrondissement",
       "Paris 17e arrondissement",
+      "Moissac",
       "Montmorillon",
       "Milly-la-Forêt",
-      "Les Ulis",
-      "Villeneuve-la-Garenne",
-      "Le Blanc-Mesnil",
-      "Chennevières-sur-Marne",
-      "Montigny-lès-Cormeilles"
+      "Le Blanc-Mesnil"
     ]
   },
   "278742": {
@@ -77,6 +77,8 @@
     "screenings": [
       "Paris",
       "Vendôme",
+      "Pélussin",
+      "Saint-Étienne",
       "Guérande",
       "Gien",
       "Granville",
@@ -84,18 +86,16 @@
       "Valenciennes",
       "Chambly",
       "Boulogne-sur-Mer",
+      "Salies-de-Béarn",
+      "Lourdes",
+      "Chalon-sur-Saône",
       "Paris 2e arrondissement",
       "Paris 8e arrondissement",
       "Paris 17e arrondissement",
+      "Moissac",
       "Montmorillon",
       "Milly-la-Forêt",
-      "Le Blanc-Mesnil",
-      "Chennevières-sur-Marne",
-      "Pamiers",
-      "Saint-Aubin-sur-Mer",
-      "Saintes",
-      "Thiviers",
-      "Crest"
+      "Le Blanc-Mesnil"
     ]
   }
 }
