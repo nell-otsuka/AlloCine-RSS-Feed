@@ -33,9 +33,9 @@
       "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
     },
     "screenings": [
+      "Massy",
       "Paris",
-      "Paris 5e arrondissement",
-      "Massy"
+      "Paris 5e arrondissement"
     ]
   },
   "133392": {
@@ -51,6 +51,7 @@
       "Saint-Étienne",
       "Guérande",
       "Gien",
+      "Cahors",
       "Granville",
       "Hauteville-sur-Mer",
       "Valenciennes",
@@ -64,8 +65,7 @@
       "Paris 17e arrondissement",
       "Moissac",
       "Montmorillon",
-      "Milly-la-Forêt",
-      "Le Blanc-Mesnil"
+      "Milly-la-Forêt"
     ]
   },
   "278742": {
@@ -81,6 +81,7 @@
       "Saint-Étienne",
       "Guérande",
       "Gien",
+      "Cahors",
       "Granville",
       "Hauteville-sur-Mer",
       "Valenciennes",
@@ -94,8 +95,7 @@
       "Paris 17e arrondissement",
       "Moissac",
       "Montmorillon",
-      "Milly-la-Forêt",
-      "Le Blanc-Mesnil"
+      "Milly-la-Forêt"
     ]
   }
 }
