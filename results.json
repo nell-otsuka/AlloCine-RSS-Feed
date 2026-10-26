@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T21:20:41.634475",
+  "timestamp": "2026-10-26T22:59:20.357614",
   "movies": {
     "240": {
       "metadata": {
@@ -35,9 +35,9 @@
         "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg"
       },
       "screenings": [
-        "Massy",
         "Paris",
-        "Paris 5e arrondissement"
+        "Paris 5e arrondissement",
+        "Massy"
       ]
     },
     "133392": {
@@ -66,8 +66,8 @@
         "Paris 8e arrondissement",
         "Paris 17e arrondissement",
         "Moissac",
-        "Montmorillon",
-        "Milly-la-Forêt"
+        "Fontenay-le-Comte",
+        "Montmorillon"
       ]
     },
     "278742": {
@@ -96,8 +96,8 @@
         "Paris 8e arrondissement",
         "Paris 17e arrondissement",
         "Moissac",
-        "Montmorillon",
-        "Milly-la-Forêt"
+        "Fontenay-le-Comte",
+        "Montmorillon"
       ]
     }
   }
