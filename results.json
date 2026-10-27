@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T22:59:20.357614",
+  "timestamp": "2026-10-27T22:48:52.827343",
   "movies": {
     "240": {
       "metadata": {
@@ -56,18 +56,18 @@
         "Cahors",
         "Granville",
         "Hauteville-sur-Mer",
+        "Laval",
         "Valenciennes",
         "Chambly",
         "Boulogne-sur-Mer",
+        "Hénin-Beaumont",
         "Salies-de-Béarn",
         "Lourdes",
         "Chalon-sur-Saône",
         "Paris 2e arrondissement",
         "Paris 8e arrondissement",
         "Paris 17e arrondissement",
-        "Moissac",
-        "Fontenay-le-Comte",
-        "Montmorillon"
+        "Yvetot"
       ]
     },
     "278742": {
@@ -86,18 +86,18 @@
         "Cahors",
         "Granville",
         "Hauteville-sur-Mer",
+        "Laval",
         "Valenciennes",
         "Chambly",
         "Boulogne-sur-Mer",
+        "Hénin-Beaumont",
         "Salies-de-Béarn",
         "Lourdes",
         "Chalon-sur-Saône",
         "Paris 2e arrondissement",
         "Paris 8e arrondissement",
         "Paris 17e arrondissement",
-        "Moissac",
-        "Fontenay-le-Comte",
-        "Montmorillon"
+        "Yvetot"
       ]
     }
   }
