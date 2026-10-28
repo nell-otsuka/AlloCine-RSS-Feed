@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T22:48:52.827343",
+  "timestamp": "2026-10-28T22:56:05.025577",
   "movies": {
     "240": {
       "metadata": {
@@ -21,7 +21,6 @@
       },
       "screenings": [
         "Creil",
-        "Ibos",
         "Chambéry",
         "Paris",
         "Paris 5e arrondissement",
@@ -51,6 +50,7 @@
         "Vendôme",
         "Pélussin",
         "Saint-Étienne",
+        "Bouguenais",
         "Guérande",
         "Gien",
         "Cahors",
@@ -66,8 +66,7 @@
         "Chalon-sur-Saône",
         "Paris 2e arrondissement",
         "Paris 8e arrondissement",
-        "Paris 17e arrondissement",
-        "Yvetot"
+        "Paris 17e arrondissement"
       ]
     },
     "278742": {

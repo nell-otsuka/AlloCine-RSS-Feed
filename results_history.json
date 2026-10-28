@@ -19,7 +19,6 @@
     },
     "screenings": [
       "Creil",
-      "Ibos",
       "Chambéry",
       "Paris",
       "Paris 5e arrondissement",
@@ -49,6 +48,7 @@
       "Vendôme",
       "Pélussin",
       "Saint-Étienne",
+      "Bouguenais",
       "Guérande",
       "Gien",
       "Cahors",
@@ -64,8 +64,7 @@
       "Chalon-sur-Saône",
       "Paris 2e arrondissement",
       "Paris 8e arrondissement",
-      "Paris 17e arrondissement",
-      "Yvetot"
+      "Paris 17e arrondissement"
     ]
   },
   "278742": {
