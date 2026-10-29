@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T22:56:05.025577",
+  "timestamp": "2026-10-29T23:03:52.308366",
   "movies": {
     "240": {
       "metadata": {
@@ -24,6 +24,7 @@
         "Chambéry",
         "Paris",
         "Paris 5e arrondissement",
+        "Avignon",
         "Bobigny"
       ]
     },
@@ -49,24 +50,24 @@
         "Paris",
         "Vendôme",
         "Pélussin",
-        "Saint-Étienne",
+        "Brioude",
         "Bouguenais",
         "Guérande",
+        "Saint-Sébastien-sur-Loire",
         "Gien",
         "Cahors",
         "Granville",
         "Hauteville-sur-Mer",
         "Laval",
+        "Vannes",
         "Valenciennes",
         "Chambly",
         "Boulogne-sur-Mer",
         "Hénin-Beaumont",
         "Salies-de-Béarn",
         "Lourdes",
-        "Chalon-sur-Saône",
-        "Paris 2e arrondissement",
-        "Paris 8e arrondissement",
-        "Paris 17e arrondissement"
+        "Perpignan",
+        "Vesoul"
       ]
     },
     "278742": {
@@ -79,24 +80,24 @@
         "Paris",
         "Vendôme",
         "Pélussin",
-        "Saint-Étienne",
+        "Brioude",
+        "Bouguenais",
         "Guérande",
+        "Saint-Sébastien-sur-Loire",
         "Gien",
         "Cahors",
         "Granville",
         "Hauteville-sur-Mer",
         "Laval",
+        "Vannes",
         "Valenciennes",
         "Chambly",
         "Boulogne-sur-Mer",
         "Hénin-Beaumont",
         "Salies-de-Béarn",
         "Lourdes",
-        "Chalon-sur-Saône",
-        "Paris 2e arrondissement",
-        "Paris 8e arrondissement",
-        "Paris 17e arrondissement",
-        "Yvetot"
+        "Perpignan",
+        "Vesoul"
       ]
     }
   }

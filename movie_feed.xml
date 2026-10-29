@@ -7,14 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:56:05 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:03:52 +0100</lastBuildDate>
+    <item>
+      <title>✨ Blade Runner (1982)</title>
+      <link>https://www.allocine.fr/seance/film-1975/</link>
+      <description><![CDATA[<strong>⌛ Current:</strong> Avignon, Bobigny, Chambéry, Creil, Paris, Paris 5e arrondissement<br/><strong>🔔 New:</strong> Avignon]]></description>
+      <guid isPermaLink="false">Blade Runner-1982</guid>
+      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 30 Oct 2026 00:03:52 +0100</pubDate>
+    </item>
     <item>
       <title>✨ Dune (2021)</title>
       <link>https://www.allocine.fr/seance/film-133392/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Bouguenais, Boulogne-sur-Mer, Cahors, Chalon-sur-Saône, Chambly, Gien, Granville, Guérande, Hauteville-sur-Mer, Hénin-Beaumont, Laval, Lourdes, Paris, Paris 17e arrondissement, Paris 2e arrondissement, Paris 8e arrondissement, Pélussin, Saint-Étienne, Salies-de-Béarn, Valenciennes, Vendôme<br/><strong>🔔 New:</strong> Bouguenais]]></description>
+      <description><![CDATA[<strong>⌛ Current:</strong> Bouguenais, Boulogne-sur-Mer, Brioude, Cahors, Chambly, Gien, Granville, Guérande, Hauteville-sur-Mer, Hénin-Beaumont, Laval, Lourdes, Paris, Perpignan, Pélussin, Saint-Sébastien-sur-Loire, Salies-de-Béarn, Valenciennes, Vannes, Vendôme, Vesoul<br/><strong>🔔 New:</strong> Brioude, Perpignan, Saint-Sébastien-sur-Loire, Vannes, Vesoul]]></description>
       <guid isPermaLink="false">Dune-2021</guid>
       <enclosure url="https://fr.web.img5.acsta.net/c_310_420/pictures/21/08/10/12/20/4633954.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 23:56:05 +0100</pubDate>
+      <pubDate>Fri, 30 Oct 2026 00:03:52 +0100</pubDate>
+    </item>
+    <item>
+      <title>✨ Dune: Part Two (2024)</title>
+      <link>https://www.allocine.fr/seance/film-278742/</link>
+      <description><![CDATA[<strong>⌛ Current:</strong> Bouguenais, Boulogne-sur-Mer, Brioude, Cahors, Chambly, Gien, Granville, Guérande, Hauteville-sur-Mer, Hénin-Beaumont, Laval, Lourdes, Paris, Perpignan, Pélussin, Saint-Sébastien-sur-Loire, Salies-de-Béarn, Valenciennes, Vannes, Vendôme, Vesoul<br/><strong>🔔 New:</strong> Bouguenais, Brioude, Perpignan, Saint-Sébastien-sur-Loire, Vannes, Vesoul]]></description>
+      <guid isPermaLink="false">Dune: Part Two-2024</guid>
+      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 30 Oct 2026 00:03:52 +0100</pubDate>
     </item>
     <item>
       <title>2001: A Space Odyssey (1968)</title>
@@ -22,23 +38,7 @@
       <description><![CDATA[<strong>⌛ Current:</strong> Massy, Paris, Paris 5e arrondissement]]></description>
       <guid isPermaLink="false">2001: A Space Odyssey-1968</guid>
       <enclosure url="https://fr.web.img6.acsta.net/c_310_420/pictures/18/05/04/14/53/4306860.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 23:56:05 +0100</pubDate>
-    </item>
-    <item>
-      <title>Blade Runner (1982)</title>
-      <link>https://www.allocine.fr/seance/film-1975/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Bobigny, Chambéry, Creil, Paris, Paris 5e arrondissement]]></description>
-      <guid isPermaLink="false">Blade Runner-1982</guid>
-      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 23:56:05 +0100</pubDate>
-    </item>
-    <item>
-      <title>Dune: Part Two (2024)</title>
-      <link>https://www.allocine.fr/seance/film-278742/</link>
-      <description><![CDATA[<strong>⌛ Current:</strong> Boulogne-sur-Mer, Cahors, Chalon-sur-Saône, Chambly, Gien, Granville, Guérande, Hauteville-sur-Mer, Hénin-Beaumont, Laval, Lourdes, Paris, Paris 17e arrondissement, Paris 2e arrondissement, Paris 8e arrondissement, Pélussin, Saint-Étienne, Salies-de-Béarn, Valenciennes, Vendôme, Yvetot]]></description>
-      <guid isPermaLink="false">Dune: Part Two-2024</guid>
-      <enclosure url="https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 23:56:05 +0100</pubDate>
+      <pubDate>Fri, 30 Oct 2026 00:03:52 +0100</pubDate>
     </item>
     <item>
       <title>Metropolis (1927)</title>
@@ -46,7 +46,7 @@
       <description><![CDATA[<strong>⌛ Current:</strong> La Mure, Paris, Paris 10e arrondissement]]></description>
       <guid isPermaLink="false">Metropolis-1927</guid>
       <enclosure url="https://fr.web.img5.acsta.net/c_310_420/medias/nmedia/18/35/90/95/19828885.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 23:56:05 +0100</pubDate>
+      <pubDate>Fri, 30 Oct 2026 00:03:52 +0100</pubDate>
     </item>
   </channel>
 </rss>
