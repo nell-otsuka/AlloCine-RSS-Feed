@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T23:03:52.308366",
+  "timestamp": "2026-10-30T22:45:01.193100",
   "movies": {
     "240": {
       "metadata": {
@@ -50,9 +50,11 @@
         "Paris",
         "Vendôme",
         "Pélussin",
+        "Saint-Étienne",
         "Brioude",
         "Bouguenais",
         "Guérande",
+        "Saint-Nazaire",
         "Saint-Sébastien-sur-Loire",
         "Gien",
         "Cahors",
@@ -60,14 +62,12 @@
         "Hauteville-sur-Mer",
         "Laval",
         "Vannes",
+        "Saint-Amand-les-Eaux",
         "Valenciennes",
         "Chambly",
         "Boulogne-sur-Mer",
         "Hénin-Beaumont",
-        "Salies-de-Béarn",
-        "Lourdes",
-        "Perpignan",
-        "Vesoul"
+        "Salies-de-Béarn"
       ]
     },
     "278742": {
@@ -78,11 +78,12 @@
       },
       "screenings": [
         "Paris",
-        "Vendôme",
         "Pélussin",
+        "Saint-Étienne",
         "Brioude",
         "Bouguenais",
         "Guérande",
+        "Saint-Nazaire",
         "Saint-Sébastien-sur-Loire",
         "Gien",
         "Cahors",
@@ -90,14 +91,13 @@
         "Hauteville-sur-Mer",
         "Laval",
         "Vannes",
+        "Saint-Amand-les-Eaux",
         "Valenciennes",
         "Chambly",
         "Boulogne-sur-Mer",
         "Hénin-Beaumont",
         "Salies-de-Béarn",
-        "Lourdes",
-        "Perpignan",
-        "Vesoul"
+        "Lourdes"
       ]
     }
   }
