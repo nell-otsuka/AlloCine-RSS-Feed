@@ -46,7 +46,6 @@
     },
     "screenings": [
       "Paris",
-      "Vendôme",
       "Pélussin",
       "Saint-Étienne",
       "Brioude",
@@ -65,6 +64,7 @@
       "Chambly",
       "Boulogne-sur-Mer",
       "Hénin-Beaumont",
+      "Thiers",
       "Salies-de-Béarn"
     ]
   },
@@ -94,8 +94,8 @@
       "Chambly",
       "Boulogne-sur-Mer",
       "Hénin-Beaumont",
-      "Salies-de-Béarn",
-      "Lourdes"
+      "Thiers",
+      "Salies-de-Béarn"
     ]
   }
 }

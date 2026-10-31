@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T22:45:01.193100",
+  "timestamp": "2026-10-31T22:07:36.481636",
   "movies": {
     "240": {
       "metadata": {
@@ -48,7 +48,6 @@
       },
       "screenings": [
         "Paris",
-        "Vendôme",
         "Pélussin",
         "Saint-Étienne",
         "Brioude",
@@ -67,6 +66,7 @@
         "Chambly",
         "Boulogne-sur-Mer",
         "Hénin-Beaumont",
+        "Thiers",
         "Salies-de-Béarn"
       ]
     },
@@ -96,8 +96,8 @@
         "Chambly",
         "Boulogne-sur-Mer",
         "Hénin-Beaumont",
-        "Salies-de-Béarn",
-        "Lourdes"
+        "Thiers",
+        "Salies-de-Béarn"
       ]
     }
   }
