@@ -18,12 +18,13 @@
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/09/23/11/37/330370.jpg"
     },
     "screenings": [
+      "Angers",
       "Creil",
       "Chambéry",
-      "Avignon",
-      "Bobigny",
       "Paris",
-      "Paris 5e arrondissement"
+      "Paris 5e arrondissement",
+      "Avignon",
+      "Bobigny"
     ]
   },
   "27442": {
@@ -35,6 +36,7 @@
     "screenings": [
       "Paris",
       "Paris 5e arrondissement",
+      "Moissac",
       "Massy"
     ]
   },
@@ -47,25 +49,25 @@
     "screenings": [
       "Paris",
       "Lyon",
+      "Nice",
       "Saint-Herblain",
+      "Strasbourg",
       "Annecy",
+      "Paris 12e arrondissement",
       "Paris 13e arrondissement",
       "Paris 14e arrondissement",
       "Paris 15e arrondissement",
       "Paris 17e arrondissement",
       "Paris 19e arrondissement",
-      "Nice",
+      "Boulogne-Billancourt",
       "Marseille",
       "Dijon",
       "Toulouse",
       "Bordeaux",
       "Montpellier",
+      "Vendôme",
       "Pélussin",
-      "Roanne",
-      "Saint-Chamond",
-      "Saint-Étienne",
-      "Saint-Galmier",
-      "Brioude"
+      "Roanne"
     ]
   },
   "278742": {
@@ -74,6 +76,28 @@
       "year": 2024,
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg"
     },
-    "screenings": []
+    "screenings": [
+      "Paris",
+      "Lyon",
+      "Nice",
+      "Saint-Herblain",
+      "Strasbourg",
+      "Annecy",
+      "Paris 12e arrondissement",
+      "Paris 13e arrondissement",
+      "Paris 14e arrondissement",
+      "Paris 15e arrondissement",
+      "Paris 17e arrondissement",
+      "Paris 19e arrondissement",
+      "Boulogne-Billancourt",
+      "Marseille",
+      "Dijon",
+      "Toulouse",
+      "Bordeaux",
+      "Montpellier",
+      "Vendôme",
+      "Pélussin",
+      "Roanne"
+    ]
   }
 }
