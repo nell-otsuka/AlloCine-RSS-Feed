@@ -20,10 +20,10 @@
     "screenings": [
       "Creil",
       "Chambéry",
-      "Paris",
-      "Paris 5e arrondissement",
       "Avignon",
-      "Bobigny"
+      "Bobigny",
+      "Paris",
+      "Paris 5e arrondissement"
     ]
   },
   "27442": {
@@ -46,26 +46,26 @@
     },
     "screenings": [
       "Paris",
+      "Lyon",
+      "Saint-Herblain",
+      "Annecy",
+      "Paris 13e arrondissement",
+      "Paris 14e arrondissement",
+      "Paris 15e arrondissement",
+      "Paris 17e arrondissement",
+      "Paris 19e arrondissement",
+      "Nice",
+      "Marseille",
+      "Dijon",
+      "Toulouse",
+      "Bordeaux",
+      "Montpellier",
       "Pélussin",
+      "Roanne",
+      "Saint-Chamond",
       "Saint-Étienne",
-      "Brioude",
-      "Bouguenais",
-      "Guérande",
-      "Saint-Nazaire",
-      "Saint-Sébastien-sur-Loire",
-      "Gien",
-      "Cahors",
-      "Granville",
-      "Hauteville-sur-Mer",
-      "Laval",
-      "Nivillac",
-      "Vannes",
-      "Saint-Amand-les-Eaux",
-      "Valenciennes",
-      "Chambly",
-      "Boulogne-sur-Mer",
-      "Hénin-Beaumont",
-      "Thiers"
+      "Saint-Galmier",
+      "Brioude"
     ]
   },
   "278742": {
@@ -74,28 +74,6 @@
       "year": 2024,
       "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/24/01/26/10/18/5392835.jpg"
     },
-    "screenings": [
-      "Paris",
-      "Pélussin",
-      "Saint-Étienne",
-      "Brioude",
-      "Bouguenais",
-      "Guérande",
-      "Saint-Nazaire",
-      "Saint-Sébastien-sur-Loire",
-      "Gien",
-      "Cahors",
-      "Granville",
-      "Hauteville-sur-Mer",
-      "Laval",
-      "Nivillac",
-      "Vannes",
-      "Saint-Amand-les-Eaux",
-      "Valenciennes",
-      "Chambly",
-      "Boulogne-sur-Mer",
-      "Hénin-Beaumont",
-      "Thiers"
-    ]
+    "screenings": []
   }
 }
