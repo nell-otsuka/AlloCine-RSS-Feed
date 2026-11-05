@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T23:50:19.398884",
+  "timestamp": "2026-11-05T00:03:59.577980",
   "movies": {
     "240": {
       "metadata": {
@@ -23,10 +23,10 @@
         "Angers",
         "Creil",
         "Chambéry",
-        "Paris",
-        "Paris 5e arrondissement",
         "Avignon",
-        "Bobigny"
+        "Bobigny",
+        "Paris",
+        "Paris 5e arrondissement"
       ]
     },
     "27442": {
@@ -52,9 +52,15 @@
         "Paris",
         "Lyon",
         "Nice",
+        "Brest",
+        "Bordeaux",
         "Saint-Herblain",
+        "Valenciennes",
         "Strasbourg",
+        "Lyon 2e arrondissement",
+        "Le Mans",
         "Annecy",
+        "Paris 8e arrondissement",
         "Paris 12e arrondissement",
         "Paris 13e arrondissement",
         "Paris 14e arrondissement",
@@ -63,13 +69,7 @@
         "Paris 19e arrondissement",
         "Boulogne-Billancourt",
         "Marseille",
-        "Dijon",
-        "Toulouse",
-        "Bordeaux",
-        "Montpellier",
-        "Vendôme",
-        "Pélussin",
-        "Roanne"
+        "Dijon"
       ]
     },
     "278742": {
@@ -82,9 +82,15 @@
         "Paris",
         "Lyon",
         "Nice",
+        "Brest",
+        "Bordeaux",
         "Saint-Herblain",
+        "Valenciennes",
         "Strasbourg",
+        "Lyon 2e arrondissement",
+        "Le Mans",
         "Annecy",
+        "Paris 8e arrondissement",
         "Paris 12e arrondissement",
         "Paris 13e arrondissement",
         "Paris 14e arrondissement",
@@ -93,13 +99,7 @@
         "Paris 19e arrondissement",
         "Boulogne-Billancourt",
         "Marseille",
-        "Dijon",
-        "Toulouse",
-        "Bordeaux",
-        "Montpellier",
-        "Vendôme",
-        "Pélussin",
-        "Roanne"
+        "Dijon"
       ]
     }
   }

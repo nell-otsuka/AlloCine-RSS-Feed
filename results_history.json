@@ -21,10 +21,10 @@
       "Angers",
       "Creil",
       "Chambéry",
-      "Paris",
-      "Paris 5e arrondissement",
       "Avignon",
-      "Bobigny"
+      "Bobigny",
+      "Paris",
+      "Paris 5e arrondissement"
     ]
   },
   "27442": {
@@ -50,9 +50,15 @@
       "Paris",
       "Lyon",
       "Nice",
+      "Brest",
+      "Bordeaux",
       "Saint-Herblain",
+      "Valenciennes",
       "Strasbourg",
+      "Lyon 2e arrondissement",
+      "Le Mans",
       "Annecy",
+      "Paris 8e arrondissement",
       "Paris 12e arrondissement",
       "Paris 13e arrondissement",
       "Paris 14e arrondissement",
@@ -61,13 +67,7 @@
       "Paris 19e arrondissement",
       "Boulogne-Billancourt",
       "Marseille",
-      "Dijon",
-      "Toulouse",
-      "Bordeaux",
-      "Montpellier",
-      "Vendôme",
-      "Pélussin",
-      "Roanne"
+      "Dijon"
     ]
   },
   "278742": {
@@ -80,9 +80,15 @@
       "Paris",
       "Lyon",
       "Nice",
+      "Brest",
+      "Bordeaux",
       "Saint-Herblain",
+      "Valenciennes",
       "Strasbourg",
+      "Lyon 2e arrondissement",
+      "Le Mans",
       "Annecy",
+      "Paris 8e arrondissement",
       "Paris 12e arrondissement",
       "Paris 13e arrondissement",
       "Paris 14e arrondissement",
@@ -91,13 +97,7 @@
       "Paris 19e arrondissement",
       "Boulogne-Billancourt",
       "Marseille",
-      "Dijon",
-      "Toulouse",
-      "Bordeaux",
-      "Montpellier",
-      "Vendôme",
-      "Pélussin",
-      "Roanne"
+      "Dijon"
     ]
   }
 }
