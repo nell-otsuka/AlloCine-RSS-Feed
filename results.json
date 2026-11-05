@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T00:03:59.577980",
+  "timestamp": "2026-11-05T23:55:29.357650",
   "movies": {
     "240": {
       "metadata": {
@@ -23,10 +23,12 @@
         "Angers",
         "Creil",
         "Chambéry",
-        "Avignon",
+        "Le Grand-Quevilly",
+        "Rouen",
         "Bobigny",
         "Paris",
-        "Paris 5e arrondissement"
+        "Paris 5e arrondissement",
+        "Avignon"
       ]
     },
     "27442": {
@@ -38,6 +40,7 @@
       "screenings": [
         "Paris",
         "Paris 5e arrondissement",
+        "Rouen",
         "Moissac",
         "Massy"
       ]
@@ -51,25 +54,25 @@
       "screenings": [
         "Paris",
         "Lyon",
+        "Paris 13e arrondissement",
         "Nice",
         "Brest",
         "Bordeaux",
+        "Tours",
         "Saint-Herblain",
         "Valenciennes",
+        "Clermont-Ferrand",
         "Strasbourg",
         "Lyon 2e arrondissement",
         "Le Mans",
         "Annecy",
         "Paris 8e arrondissement",
         "Paris 12e arrondissement",
-        "Paris 13e arrondissement",
         "Paris 14e arrondissement",
         "Paris 15e arrondissement",
         "Paris 17e arrondissement",
         "Paris 19e arrondissement",
-        "Boulogne-Billancourt",
-        "Marseille",
-        "Dijon"
+        "Boulogne-Billancourt"
       ]
     },
     "278742": {
@@ -81,25 +84,25 @@
       "screenings": [
         "Paris",
         "Lyon",
+        "Paris 13e arrondissement",
         "Nice",
         "Brest",
         "Bordeaux",
+        "Tours",
         "Saint-Herblain",
         "Valenciennes",
+        "Clermont-Ferrand",
         "Strasbourg",
         "Lyon 2e arrondissement",
         "Le Mans",
         "Annecy",
         "Paris 8e arrondissement",
         "Paris 12e arrondissement",
-        "Paris 13e arrondissement",
         "Paris 14e arrondissement",
         "Paris 15e arrondissement",
         "Paris 17e arrondissement",
         "Paris 19e arrondissement",
-        "Boulogne-Billancourt",
-        "Marseille",
-        "Dijon"
+        "Boulogne-Billancourt"
       ]
     }
   }
