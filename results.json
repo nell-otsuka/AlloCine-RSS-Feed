@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T23:55:29.357650",
+  "timestamp": "2026-11-06T23:36:28.756305",
   "movies": {
     "240": {
       "metadata": {
@@ -25,10 +25,7 @@
         "Chambéry",
         "Le Grand-Quevilly",
         "Rouen",
-        "Bobigny",
-        "Paris",
-        "Paris 5e arrondissement",
-        "Avignon"
+        "Bobigny"
       ]
     },
     "27442": {
@@ -72,7 +69,7 @@
         "Paris 15e arrondissement",
         "Paris 17e arrondissement",
         "Paris 19e arrondissement",
-        "Boulogne-Billancourt"
+        "Rouen"
       ]
     },
     "278742": {
